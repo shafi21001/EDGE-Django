@@ -1,3 +1,0 @@
-Maclaurin Series Approximation: 7.3887125220458545
-Actual Value (e^x): 7.38905609893065
-Error: 0.0003435768847959153
