@@ -1,0 +1,4 @@
+
+# Requirements for Rock-Paper-Scissors GUI Game
+
+tkinter  # Standard library for Python (included with Python installations)
